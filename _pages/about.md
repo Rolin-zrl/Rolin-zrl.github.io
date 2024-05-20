@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-
-I am currently a student in the second year of my master's degree in Photogrammetry and remote sensing in the School of Geomatics, Wuhan University.
+======
+I am currently a second-year master's student majoring  in  Photogrammetry and Remote Sensing at the [School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), (Wuhan University)[https://www.whu.edu.cn/].
 
 A data-driven personal website
 ======
