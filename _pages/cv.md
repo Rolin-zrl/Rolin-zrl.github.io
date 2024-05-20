@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 * M.S. in Jekyll, GitHub University, 2022.09-2025.06 (expected)
-* B.S. in GitHub, GitHub University, 2018.09-2022.06
+* B.S. in Remote Sensing Science and Technology, School of Electronics and Information Engineering，Harbin Institute of Technology, China， 2018.09-2022.06
