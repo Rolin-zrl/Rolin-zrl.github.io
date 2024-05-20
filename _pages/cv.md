@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2022.09-2025.06 (expected)
+* B.S. in GitHub, GitHub University, 2018.09-2022.06
