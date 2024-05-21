@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Education"
-    url: /cv/
+    url: /Education/
 
   - title: "Research Experience"
-    url: /talks/    
+    url: /Research Experience/    
     
   - title: "Publications"
     url: /publications/
