@@ -264,9 +264,9 @@ defaults:
   # _research_experience
   - scope:
       path: ""
-      type: research_experience
+      type: talks
     values:
-      layout: research_experience
+      layout: talks
       author_profile: true
       share: true
 
