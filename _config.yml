@@ -209,7 +209,7 @@ collections:
   portfolio:
     output: false
     permalink: /:collection/:path/
-  research_experience:
+  research-experience:
     output: true
     permalink: /:collection/:path/
 
@@ -261,10 +261,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _research_experience
+  # _research-experience
   - scope:
       path: ""
-      type: research_experience
+      type: research-experience
     values:
       layout: talks
       author_profile: true
