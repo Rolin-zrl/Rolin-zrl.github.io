@@ -2,7 +2,7 @@
 title: "The RoboMaster University Championship (RMUC) 2020"
 collection: research-experience
 type: "Talk"
-permalink: /research-experience/2012-03-01-talk-1
+permalink: /research-experience/2019-06-research-1
 venue: "Robot Matches"  
 start_date: 2019-06-01
 end_date: 2020-10-01
