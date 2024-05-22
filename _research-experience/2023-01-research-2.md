@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /research-experience/2023-01-research-2
 venue: "Scientific Research"
 start_date: 2023-01-01
-end_date: 2024-04-01
+end_date: 2023-12-01
 location: "Whuhan, China"
 ---
 
